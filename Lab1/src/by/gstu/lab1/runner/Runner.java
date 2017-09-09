@@ -1,7 +1,9 @@
-package by.gstu.lab1.entities;
+package by.gstu.lab1.runner;
 
 
 import by.gstu.lab1.actions.FileActions;
+import by.gstu.lab1.entities.Faculty;
+import by.gstu.lab1.entities.University;
 
 public class Runner {
 
