@@ -1,0 +1,9 @@
+23,Amusin,Nikolay,Pavlovich,09/06/1998,Minskaya 30/88,375291192081,FAIS,IT-32,3
+85,Batrakov,Maksim,Gennadievich,22/05/1995,BSSR 25/85,375445236523,FAIS,IT-21,2
+15,Kom,Konstantin,Andreevich,27/05/1998,Gorelika 50/63,375292285236,GEF,GE-41,4
+124,Shur,Pavel,Gennadievich,11/05/1998,Borisova 25/23,375292535836,EF,E-21,2
+63,Ropot,Nikolay,Andreevich,30/02/1997,Ivanova 12/41,375442285278,MTF,MT-11,1
+86,Belous,Viktoriya,Sergeevna,26/01/1997,Minskaya 2/12,375252287486,MSF,MS-51,5
+11,Kozintsov,Dmitriy,Mihaylovich,18/03/1997,Gorelika 50/61,375252525252,FAIS,IT-32,3
+26,Zlotnikova,Kseniya,Vladimirivna,02/02/1998,Checherskaya 85/39,375297545256,GEF,GE-21,2
+95,Belodedov,Vitaliy,Andreevich,22/05/1998,Gorela 20/73,375292882236,EF,E-51,5
